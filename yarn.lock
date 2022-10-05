@@ -1399,7 +1399,7 @@
     "@babel/types" "^7.4.4"
     esutils "^2.0.2"
 
-"@babel/runtime@^7.1.2", "@babel/runtime@^7.11.2", "@babel/runtime@^7.12.5", "@babel/runtime@^7.13.10", "@babel/runtime@^7.5.5", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2":
+"@babel/runtime@^7.1.2", "@babel/runtime@^7.11.2", "@babel/runtime@^7.12.5", "@babel/runtime@^7.5.5", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2":
   version "7.18.9"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.18.9.tgz#b4fcfce55db3d2e5e080d2490f608a3b9f407f4a"
   integrity sha512-lkqXDcvlFT5rvEjiu6+QYO+1GXrEHRo2LOtS7E4GtX5ESIZOgepqsZBVIj6Pv+a6zqsya9VCgiK1KAK4BvJDAw==
@@ -7175,12 +7175,10 @@ is-lambda@^1.0.1:
   resolved "https://registry.yarnpkg.com/is-lambda/-/is-lambda-1.0.1.tgz#3d9877899e6a53efc0160504cde15f82e6f061d5"
   integrity sha1-PZh3iZ5qU+/AFgUEzeFfgubwYdU=
 
-is-language-code@^3.0.12:
-  version "3.0.12"
-  resolved "https://registry.yarnpkg.com/is-language-code/-/is-language-code-3.0.12.tgz#95824e2b52cdf0ef62aa4b202ae2270d41d99d6c"
-  integrity sha512-FIMe2RGBE9Rbu+qLR2TFL21vDF8D/IlMylcHGfTKlHycq7c+UAXLNUt3pV/igVLYmWpCVoGjJU2/IT+5YHvlkg==
-  dependencies:
-    "@babel/runtime" "^7.13.10"
+is-language-code@^4.1.10:
+  version "4.1.10"
+  resolved "https://registry.yarnpkg.com/is-language-code/-/is-language-code-4.1.10.tgz#41ace8960e2eee27efbf488e9ef4e2d1fcd8b165"
+  integrity sha512-xKL0XcQwBW/7MSJuFRHKc6PqhTilAR27AtYMBHzVliyFfp9spS9u/b0Qq40KIwYXAzYL5tqblsU2hOzjJ3XsEQ==
 
 is-negative-zero@^2.0.2:
   version "2.0.2"
